@@ -1,0 +1,7 @@
+name = "bookmarkbamtest"
+main = "bookmarkbamdesktop.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "bookmarks"
+id = "77655f3e69d24bb5b3cda48ee35e1650"
